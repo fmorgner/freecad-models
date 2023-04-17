@@ -1,0 +1,76 @@
+2739|2739|A|Document.xml
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+ FreeCAD Document, see https://www.freecadweb.org for more information...
+-->
+<Document SchemaVersion="4" ProgramVersion="0.19R24291 (Git)" FileVersion="1">
+    <Properties Count="15" TransientCount="3">
+        <_Property name="FileName" type="App::PropertyString" status="50331649"/>
+        <_Property name="Tip" type="App::PropertyLink" status="33554433"/>
+        <_Property name="TransientDir" type="App::PropertyString" status="50331649"/>
+        <Property name="Comment" type="App::PropertyString">
+            <String value=""/>
+        </Property>
+        <Property name="Company" type="App::PropertyString">
+            <String value=""/>
+        </Property>
+        <Property name="CreatedBy" type="App::PropertyString" status="1">
+            <String value="Felix Morgner &lt;felix.morgner@gmail.com&gt;"/>
+        </Property>
+        <Property name="CreationDate" type="App::PropertyString" status="16777217">
+            <String value="2021-05-13T12:45:51Z"/>
+        </Property>
+        <Property name="Id" type="App::PropertyString">
+            <String value=""/>
+        </Property>
+        <Property name="Label" type="App::PropertyString" status="1">
+            <String value="dnd-coins"/>
+        </Property>
+        <Property name="LastModifiedBy" type="App::PropertyString" status="1">
+            <String value="Felix Morgner &lt;felix.morgner@gmail.com&gt;"/>
+        </Property>
+        <Property name="LastModifiedDate" type="App::PropertyString" status="16777217">
+            <String value="2021-05-13T12:47:59Z"/>
+        </Property>
+        <Property name="License" type="App::PropertyString" status="1">
+            <String value="Creative Commons Attribution-ShareAlike"/>
+        </Property>
+        <Property name="LicenseURL" type="App::PropertyString" status="1">
+            <String value="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        </Property>
+        <Property name="Material" type="App::PropertyMap">
+            <Map count="0">
+            </Map>
+        </Property>
+        <Property name="Meta" type="App::PropertyMap">
+            <Map count="0">
+            </Map>
+        </Property>
+        <Property name="ShowHidden" type="App::PropertyBool" status="1">
+            <Bool value="false"/>
+        </Property>
+        <Property name="TipName" type="App::PropertyString" status="83886080">
+            <String value=""/>
+        </Property>
+        <Property name="Uid" type="App::PropertyUUID" status="16777217">
+            <Uuid value="ef580496-4fae-4a72-a0fb-47c0116d9984"/>
+        </Property>
+    </Properties>
+    <Objects Count="0" Dependencies="1">
+    </Objects>
+    <ObjectData Count="0">
+    </ObjectData>
+</Document>
+
+462|462|A|GuiDocument.xml
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+ FreeCAD Document, see http://www.freecadweb.org for more information...
+-->
+<Document SchemaVersion="1" HasExpansion="1">
+    <Expand />
+    <ViewProviderData Count="0">
+    </ViewProviderData>
+    <Camera settings="OrthographicCamera {&#10;  viewportMapping ADJUST_CAMERA&#10;  position 0 0 1&#10;  orientation 0 0 1  0&#10;  aspectRatio 1&#10;  focalDistance 5&#10;  height 4.1421356&#10;&#10;}&#10;"/>
+</Document>
+

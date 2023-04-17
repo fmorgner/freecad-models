@@ -1,0 +1,4 @@
+*.FCStd filter=zippey diff=zip
+*.amf filter=zippey diff=zip
+*.stl filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text

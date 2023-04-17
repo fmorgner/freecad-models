@@ -1,0 +1,69 @@
+2219|2219|A|Document.xml
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+ FreeCAD Document, see http://www.freecadweb.org for more information...
+-->
+<Document SchemaVersion="4" ProgramVersion="0.18R16161 (Git)" FileVersion="1">
+    <Properties Count="14">
+        <Property name="Comment" type="App::PropertyString">
+            <String value=""/>
+        </Property>
+        <Property name="Company" type="App::PropertyString">
+            <String value=""/>
+        </Property>
+        <Property name="CreatedBy" type="App::PropertyString">
+            <String value="Felix Morgner &lt;felix.morgner@gmail.com&gt;"/>
+        </Property>
+        <Property name="CreationDate" type="App::PropertyString">
+            <String value="2021-01-13T15:54:17Z"/>
+        </Property>
+        <Property name="Id" type="App::PropertyString">
+            <String value=""/>
+        </Property>
+        <Property name="Label" type="App::PropertyString">
+            <String value="wet_pallette_inlay_guide"/>
+        </Property>
+        <Property name="LastModifiedBy" type="App::PropertyString">
+            <String value="Felix Morgner &lt;felix.morgner@gmail.com&gt;"/>
+        </Property>
+        <Property name="LastModifiedDate" type="App::PropertyString">
+            <String value="2021-01-13T15:54:48Z"/>
+        </Property>
+        <Property name="License" type="App::PropertyString">
+            <String value="CreativeCommons Attribution-ShareAlike"/>
+        </Property>
+        <Property name="LicenseURL" type="App::PropertyString">
+            <String value="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        </Property>
+        <Property name="Material" type="App::PropertyMap">
+            <Map count="0">
+            </Map>
+        </Property>
+        <Property name="Meta" type="App::PropertyMap">
+            <Map count="0">
+            </Map>
+        </Property>
+        <Property name="TipName" type="App::PropertyString">
+            <String value=""/>
+        </Property>
+        <Property name="Uid" type="App::PropertyUUID">
+            <Uuid value="9d32750e-5cac-4f48-a05e-3cfdb608c668"/>
+        </Property>
+    </Properties>
+    <Objects Count="0">
+    </Objects>
+    <ObjectData Count="0">
+    </ObjectData>
+</Document>
+
+396|396|A|GuiDocument.xml
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+ FreeCAD Document, see http://www.freecadweb.org for more information...
+-->
+<Document SchemaVersion="1">
+    <ViewProviderData Count="0">
+    </ViewProviderData>
+    <Camera settings="  OrthographicCamera {   viewportMapping ADJUST_CAMERA   position 0 0 1   orientation 0 0 1  0   aspectRatio 1   focalDistance 5   height 4.1421356  } "/>
+</Document>
+
